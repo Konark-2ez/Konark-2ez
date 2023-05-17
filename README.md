@@ -25,7 +25,7 @@ As a Full Stack Developer, I have experience working on both the front-end and b
 - ✳️: I'm currently learning Node, express, mongoDB
 - 👨‍🦱: Want to know more about me <a href="https://konark-2ez.github.io/">PortFolio</a>
 - 💬:Ask me about: <b>Backend</b>,<b>Node</b>,<b>RestAPI</b>,<b>Frontend</b>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konark-chandra-kumar-86a1b0217/) <a href= "konarkkumar456@gmail.com" >G-mail</a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konark-chandra-kumar-86a1b0217/) <a href= "[konarkkumar456@gmail.com](https://mail.google.com/mail/u/0/#inbox)" >konarkkumar456@gmail.com</a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
